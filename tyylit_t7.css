@@ -17,3 +17,6 @@ p {
   background: #ff0000ca;
   color: white;
 }
+.header h1{
+  font-size: 48px;
+}
