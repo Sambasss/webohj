@@ -36,3 +36,8 @@ p {
   background-color: #c30000;
   color: black;
 }
+
+.img{
+  width: 320px;
+  height: 160px;
+}
