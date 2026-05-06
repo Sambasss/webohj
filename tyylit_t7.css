@@ -4,24 +4,29 @@
 
 body {
     background-color: rgb(69, 0, 12);
+    color: white;
 }
 
 p {
-    font-style: verdana;
-    font-size: 20px;
+  font-style: verdana;
+  font-size: 20px;
 }
+
 .header {
   padding: 60px;
   text-align: left;
   background: #ff0000ca;
   color: white;
 }
+
 .header h1{
   font-size: 48px;
 }
+
 .navbar {
   display: flex;
   background-color: #000000;
+  align-items: center;
 }
 
 .navbar a {
@@ -29,9 +34,15 @@ p {
   padding: 14px 20px;
   text-decoration: none;
   text-align: center;
+  font-size: 16px;
 }
 
 .navbar a:hover {
   background-color: #c30000;
   color: black;
+}
+
+img{
+  width: 320px;
+  height: 160px;
 }
